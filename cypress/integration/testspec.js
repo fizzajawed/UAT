@@ -30,7 +30,7 @@ cy.wait(600)
 
 // cy.get('select').select('AB Client')
 //cy.get('#ctl00_cphBody_drpLender').select('AB Client').should('have.value','AB Client')
-cy.wait(10000)
+cy.wait(2000)
 
 //cy.get('#ctl00_cphBody_drpTransactionType').should('have.class', 'ready')
 // execute the next test command
